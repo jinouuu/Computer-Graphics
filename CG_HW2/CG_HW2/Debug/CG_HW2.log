@@ -1,0 +1,3 @@
+﻿  hw2.c
+C:\Users\98040\source\repos\CG_HW2\CG_HW2\hw2.c(164,27): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  CG_HW2.vcxproj -> C:\Users\98040\source\repos\CG_HW2\Debug\CG_HW2.exe

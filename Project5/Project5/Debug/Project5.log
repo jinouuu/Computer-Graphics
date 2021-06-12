@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\98040\source\repos\Project5\Project5\소스.c(53,27): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  Project5.vcxproj -> C:\Users\98040\source\repos\Project5\Debug\Project5.exe

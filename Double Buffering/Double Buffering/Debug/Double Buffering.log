@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\98040\source\repos\Double Buffering\Double Buffering\소스.c(54,51): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+C:\Users\98040\source\repos\Double Buffering\Double Buffering\소스.c(74,25): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  Double Buffering.vcxproj -> C:\Users\98040\source\repos\Double Buffering\Debug\Double Buffering.exe

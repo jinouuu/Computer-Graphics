@@ -1,0 +1,3 @@
+﻿  midterm.c
+C:\Users\98040\source\repos\MidTerm\MidTerm\midterm.c(336,28): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  MidTerm.vcxproj -> C:\Users\98040\source\repos\MidTerm\Debug\MidTerm.exe
